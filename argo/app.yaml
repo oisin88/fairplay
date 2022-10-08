@@ -9,6 +9,7 @@ spec:
     repoURL: https://github.com/oisin88/fairplay.git
     targetRevision: HEAD
     path: mainfests/example-app
+    manifests/exsample-app
     directory:
       recurse: true
   destination:
